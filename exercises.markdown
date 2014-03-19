@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Exericises"
+title: "Exercises"
 ---
 
 ## {{ site.course.number }} Exercises
