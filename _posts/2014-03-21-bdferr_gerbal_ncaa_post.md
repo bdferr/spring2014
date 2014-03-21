@@ -1,9 +1,9 @@
 ---
 layout : post
-author: 
+author : 
   -gerbal
   -bdferr
-title: Grant and Brendan's collaboration
+title : Grant and Brendan's collaboration
 ---
 
 Brendan was at first confused about the placement of the NCAA repo; he had cloned it as ncaa inside of the spring2014 directory. Grant explained that “git repos do not live happily inside of each other,” so Brendan employed rm –rf ncaa. This one command removed all of the files in the ncaa directory, including all of the files in its subdirectories, then removed each subdirectory once it was empty, then removed the folder “ncaa” once it was empty. Brendan then respawned the ncaa directory outside of the spring2014 folder, so that it could have more Lebensraum.
