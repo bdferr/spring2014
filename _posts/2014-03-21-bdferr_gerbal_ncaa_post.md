@@ -1,8 +1,8 @@
 ---
 layout : post
 author : 
-  -gerbal
-  -bdferr
+ - grant
+ - bdferr
 title : Grant and Brendan's collaboration
 ---
 
